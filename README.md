@@ -26,6 +26,26 @@ A simple and interactive React application to track and visualize your interacti
 - Built with Recharts
 - Fully responsive
 
+<hr>
+<h3>👥 Friend Details Page</h3>
+
+- Add and log interactions with friends
+- Interaction Type:
+     - Call
+     - Text
+    - Video
+- Data managed using React Context API
+
+<hr>
+<h3>👥 Friend Details Page</h3>
+
+- Add and log interactions with friends
+- Interaction Type:
+     - Call
+     - Text
+    - Video
+- Data managed using React Context API
+
 ## React Compiler
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
