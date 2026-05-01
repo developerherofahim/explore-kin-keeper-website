@@ -1,5 +1,5 @@
 import { use } from "react";
-import FriendsCard from "../../../ui/friendsCard";
+import FriendsCard from "../../../ui/FriendsCard";
 
 const friendPromise = fetch('/data.json').then((res) => res.json());
 
