@@ -6,7 +6,7 @@ import { ChartLine, Clock3, House } from "lucide-react";
 const Navbar = () => {
     return (
         <div className="bg-base-100 shadow-sm">
-            <div className="navbar px-20">
+            <div className="navbar px-10 md:px-16 lg:px-20">
                 <div className="navbar-start">
                     <a className="btn btn-ghost text-xl">
                         <img src={NavLogo} alt="Kin Keeper Logo" />

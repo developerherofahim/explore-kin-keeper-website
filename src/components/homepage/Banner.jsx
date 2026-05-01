@@ -4,7 +4,7 @@ import { Plus } from "lucide-react";
 const Banner = () => {
     return (
         <div className="">
-            <div className="hero pt-20">
+            <div className="hero">
                 <div className="hero-content text-center">
                     <div className="max-w-7xl">
                         <h1 className="text-5xl font-bold">Friends to keep close in your life</h1>
@@ -16,7 +16,7 @@ const Banner = () => {
                     </div>
                 </div>
             </div>
-            <div className='grid lg:grid-cols-4 md:grid-cols-2 gap-6 justify-center items-center pt-10 mx-auto lg:px-60'>
+            <div className='grid lg:grid-cols-4 md:grid-cols-2 gap-6 justify-center items-center pt-10 mx-auto px-16 md:px-40 lg:px-60'>
                 <div className='flex flex-col gap-2 justify-center items-center p-8 bg-white shadow-sm'>
                     <h2 className='text-3xl font-semibold text-center text-[#244D3F]'>10</h2>
                     <p className='text-center'>Total Friends</p>
@@ -34,7 +34,7 @@ const Banner = () => {
                     <p className='text-center'>Interactions This Month</p>
                 </div>
             </div>
-            <div className="divider mx-60 mt-10"></div>
+            <div className="divider mx-10 lg:mx-60 mt-10"></div>
         </div>
 
     );

@@ -7,7 +7,7 @@
     "days_since_contact": 18,
     "status": "overdue",
     "tags": ["college", "close friend"],
-    "bio": "We studied Computer Science together at university and built multiple class projects late at night.",
+    "bio": "Studied CS together, built projects and played FIFA.",
     "goal": 14,
     "next_due_date": "2026-04-10"
   },
@@ -19,7 +19,7 @@
     "days_since_contact": 12,
     "status": "almost due",
     "tags": ["office", "design team"],
-    "bio": "Colleague from the design team who always shares helpful UI/UX feedback and creative ideas.",
+    "bio": "Creative UI/UX teammate with great design ideas.",
     "goal": 14,
     "next_due_date": "2026-04-28"
   },
@@ -31,7 +31,7 @@
     "days_since_contact": 5,
     "status": "on-track",
     "tags": ["gym", "fitness"],
-    "bio": "Gym partner who keeps me accountable with workouts and healthy routines.",
+    "bio": "Gym partner who keeps me consistent and motivated.",
     "goal": 10,
     "next_due_date": "2026-05-01"
   },
@@ -43,7 +43,7 @@
     "days_since_contact": 21,
     "status": "overdue",
     "tags": ["school", "best friend"],
-    "bio": "Best friend since school days. We still laugh about old classroom memories.",
+    "bio": "School best friend, still sharing laughs and memories.",
     "goal": 14,
     "next_due_date": "2026-04-05"
   },
@@ -55,7 +55,7 @@
     "days_since_contact": 9,
     "status": "on-track",
     "tags": ["freelance", "developer"],
-    "bio": "Freelance developer friend. We discuss client work, pricing, and new tech trends.",
+    "bio": "Freelance dev friend, talks about projects and tech.",
     "goal": 15,
     "next_due_date": "2026-05-03"
   },
@@ -67,7 +67,7 @@
     "days_since_contact": 13,
     "status": "almost due",
     "tags": ["neighbor", "family friend"],
-    "bio": "Neighbor and family friend. We meet during Eid and local gatherings.",
+    "bio": "Neighbor and family friend, meet during events.",
     "goal": 14,
     "next_due_date": "2026-04-27"
   },
@@ -79,7 +79,7 @@
     "days_since_contact": 30,
     "status": "overdue",
     "tags": ["startup", "business"],
-    "bio": "Startup-focused friend. We brainstorm business ideas and online ventures.",
+    "bio": "Startup enthusiast, shares business ideas.",
     "goal": 20,
     "next_due_date": "2026-04-01"
   },
@@ -91,7 +91,7 @@
     "days_since_contact": 6,
     "status": "on-track",
     "tags": ["travel", "adventure"],
-    "bio": "Travel partner. We've explored Cox’s Bazar and Bandarban together.",
+    "bio": "Travel partner exploring Cox’s Bazar and Bandarban.",
     "goal": 12,
     "next_due_date": "2026-05-02"
   },
@@ -103,7 +103,7 @@
     "days_since_contact": 16,
     "status": "overdue",
     "tags": ["gaming", "online friend"],
-    "bio": "Online gaming friend. We often play multiplayer games and chat on Discord.",
+    "bio": "Online gaming friend, plays and chats on Discord.",
     "goal": 10,
     "next_due_date": "2026-04-12"
   },
@@ -115,7 +115,7 @@
     "days_since_contact": 11,
     "status": "almost due",
     "tags": ["university", "classmate"],
-    "bio": "University classmate who helped me prepare for exams and group assignments.",
+    "bio": "University classmate, helped with exams and studies.",
     "goal": 14,
     "next_due_date": "2026-04-29"
   }
