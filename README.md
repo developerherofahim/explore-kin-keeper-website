@@ -37,19 +37,10 @@ A simple and interactive React application to track and visualize your interacti
 - Data managed using React Context API
 
 <hr>
-<h3>👥 Friend Details Page</h3>
+<h3>🧠 Tech Stack</h3>
 
-- Add and log interactions with friends
-- Interaction Type:
-     - Call
-     - Text
-    - Video
-- Data managed using React Context API
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React
+- 🎨 Tailwind CSS + DaisyUI
+- 📊 Recharts
+- 🔄 Context API
+- 🧩 React Hooks
