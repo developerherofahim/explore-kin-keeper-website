@@ -15,13 +15,13 @@ const Stats = () => {
 
 
     const data = [
-        { name: 'Call', value: callCount, fill: '#0088FE' },
-        { name: 'Text', value: textCount, fill: '#00C49F' },
-        { name: 'Video', value: videoCount, fill: '#FFBB28' }
+        { name: 'Call', value: callCount, fill: '#244D3F' },
+        { name: 'Text', value: textCount, fill: '#7F37F5' },
+        { name: 'Video', value: videoCount, fill: '#37A163' }
     ];
 
 
-    if (storedFriend.length == "0") {
+    if (storedFriend.length === 0) {
         return <div className='bg-[#F8FAFC] py-20 px-16 md:px-40 lg:px-60'>
             <div className='flex justify-center items-center px-8 py-20 bg-white shadow-sm rounded-2xl'>
                 <h2 className='text-5xl font-bold text-[#244D3F]'>No Data Available</h2>
@@ -34,8 +34,8 @@ const Stats = () => {
         <div className='bg-[#F8FAFC] py-20 px-16 md:px-40 lg:px-60'>
             <h2 className='text-5xl font-bold text-[#1F2937]'>FriendShip Analytics</h2>
             <div className='px-8 py-6 bg-white shadow-sm mt-6 rounded-2xl' >
-                <h2 className='text-xl font medium'>By Interaction Type</h2>
-                <div className='flex justify-center items-center'>
+                <h2 className='text-xl font medium text-[#244D3F]'>By Interaction Type</h2>
+                <div className='flex justify-center items-center mt-6'>
                     <PieChart style={{ width: '100%', maxWidth: '500px', maxHeight: '80vh', aspectRatio: 1 }} responsive>
                         <Pie
                             data={data}
@@ -48,9 +48,9 @@ const Stats = () => {
                             paddingAngle={5}
                             dataKey="value"
                         />
-                            
-                        <Legend wrapperStyle={{marginTop: 24}} />
-
+                        <Legend wrapperStyle={{
+                            paddingTop: 24
+                        }} />
                         <Tooltip />
                     </PieChart>
 
