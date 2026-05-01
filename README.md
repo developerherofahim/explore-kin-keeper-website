@@ -8,13 +8,23 @@ A simple and interactive React application to track and visualize your interacti
 - Displays all interaction history in a clean timeline UI
 - Each entry includes:
      - 📅 Date of interaction
-     - interaction
-🔣 Icon (Call / Text / Video)
+     - 🔣 interaction  Icon (Call / Text / Video)
     - 📝 Title (e.g., Call with Sarah)
 - Filter interactions by type:
      -  Call
      - Text
     - Video
+- Sorted by latest interactions first
+<hr>
+<h3>📊 Stats Page</h3>
+
+- Visual representation of interactions using a Pie Chart
+- Shows:
+     - Total Calls 📞
+     - Total Texts 💬
+    - Total Video Calls 🎥
+- Built with Recharts
+- Fully responsive
 
 ## React Compiler
 
