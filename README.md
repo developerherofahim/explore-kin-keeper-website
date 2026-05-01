@@ -1,11 +1,20 @@
-# React + Vite
+# 📘 Friendship Tracker App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive React application to track and visualize your interactions with friends — including calls, texts, and video calls.
 
-Currently, two official plugins are available:
+<h2>🚀 Features</h2>
+<h3>📜 Timeline Page</h3>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Displays all interaction history in a clean timeline UI
+- Each entry includes:
+     - 📅 Date of interaction
+     - interaction
+🔣 Icon (Call / Text / Video)
+    - 📝 Title (e.g., Call with Sarah)
+- Filter interactions by type:
+     -  Call
+     - Text
+    - Video
 
 ## React Compiler
 
